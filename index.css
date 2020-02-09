@@ -1,14 +1,26 @@
 body{
     background-color: #636e72;
+    text-align: center;
+    color: white;
   }
-
+.js-toDoList
+{
+  list-style:none;
+}
   
   .form,
   .greetings
   {
     display: none;
+
   }
 
+  
+  .js-weather,
+.js-temp
+{
+font-size: 30px;
+}
   .showing{
     display: block;
   }
